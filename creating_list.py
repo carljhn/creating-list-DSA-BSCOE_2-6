@@ -47,8 +47,8 @@ if ready == "y":
         print("6. Arrange in descending order") #sort_descending
         print("7. Determine the number of an element in the array") #count()
         print("8. Obtain the sum of all the elements") #sum()
-        print("9. Determine the mlargest vlaue in the array") #max()
-        print("10. Determine the smallest value in teh array") #min()
+        print("9. Determine the largest value in the array") #max()
+        print("10. Determine the smallest value in the array") #min()
         operation = input("Please select the number of the operation you want to perform: ")
 
         if operation == "1":
